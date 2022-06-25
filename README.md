@@ -35,3 +35,4 @@ In addition to the UI that looks like Discord, some features were created in the
 - Change your username, and avatar
 - Delete your user and prevent it from being used to login
 ## and more (of course)
+# Demo https://user-images.githubusercontent.com/80564718/175792511-6bcdc4fc-c9c5-42b2-9522-56e795fcd8b5.mp4
